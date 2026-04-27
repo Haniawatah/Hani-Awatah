@@ -40,6 +40,33 @@ My work primarily involves:
 - **[bsv-edutask](https://github.com/Haniawatah/bsv-edutask)** - A Python-based educational project for learning testing techniques in the PA1417 course
 - **[vteam7-project](https://github.com/Haniawatah/vteam7-project)** - A team project for "Svenska Elsparkcyklar AB"
 
+### ### 🚲 vteam7-project - Svenska Elsparkcyklar AB
+**Team Project | E-Scooter Management System**
+
+- **Client**: Svenska Elsparkcyklar AB
+- **License**: MIT License
+- **Status**: Active Development
+- **Repository**: [vteam7-project](https://github.com/Haniawatah/vteam7-project)
+
+**Project Overview:**
+A comprehensive team project developed for "Svenska Elsparkcyklar AB" to create an electric scooter (e-bike/e-scooter) management system. This collaborative project demonstrates full-stack development capabilities and real-world business solutions.
+
+**Key Highlights:**
+- 🤝 Team-based development with collaborative workflows
+- 🛴 E-scooter fleet management and tracking system
+- 💼 Real-world client project for a Swedish e-mobility company
+- 📅 Recently updated (January 2026)
+- 🔧 Flexible development with multiple merge strategies
+- 📋 Issue tracking and project management enabled
+
+**Tech Stack:**
+- Full-stack implementation
+- Multiple programming languages and frameworks
+- RESTful API integration capabilities
+- Project management tools
+
+**Getting Started:**
+Visit the [repository](https://github.com/Haniawatah/vteam7-project) to explore the codebase, contribute, or learn more about the project structure.
 ---
 
 ## 📊 GitHub Stats
