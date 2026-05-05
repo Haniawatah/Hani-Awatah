@@ -14,12 +14,30 @@ I'm a versatile developer with experience across multiple technologies and domai
 
 ## 💻 Technical Stack
 
-My work primarily involves:
+### 🌐 Frontend & Design
+- **Core**: JavaScript (ES6+), HTML5, CSS3
+- **Styling**: SCSS / Sass, Twig Templating
+- **Focus**: Responsive Design, Interactive UI/UX
 
-- **Frontend**: JavaScript, HTML, CSS
-- **Backend**: PHP, Python
-- **Templating & Styling**: Twig, SCSS
-- **Development Focus**: Web Applications, Interactive Tools, Educational Projects
+### ⚙️ Backend & Logic
+- **Languages**: PHP, Python
+- **Frameworks**: Flask (Python), Slim/Laminas (PHP)
+- **Tools**: Composer, Pip, NPM
+
+### 🗄️ Database Management
+- **Relational (SQL)**: MySQL, MariaDB, PostgreSQL
+- **NoSQL**: MongoDB
+- **Architecture**: Database Design, CRUD Operations, Query Optimization
+
+### 🚀 Development Focus
+- Full-stack Web Applications
+- Scalable Data-driven Tools
+- Educational & Interactive Software Projects
+- 
+### 🛠️ DevOps & Workflow
+- **Containerization**: Docker, Docker Compose
+- **Version Control**: Git, GitHub
+- **Environment**: Linux/Unix Shell, Virtual Environments
 
 ---
 
