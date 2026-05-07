@@ -82,7 +82,22 @@ A comprehensive team project developed for "Svenska Elsparkcyklar AB" to create 
 - Multiple programming languages and frameworks
 - RESTful API integration capabilities
 - Project management tools
+  
+🛴 vteam7-project - Svenska Elsparkcyklar AB
+Lead Developer & Architect | Fullstack E-Scooter System
 
+Role: Primary developer responsible for system architecture and core implementation.
+
+Infrastructure: Engineered a fully containerized environment using Docker and Docker Compose, ensuring seamless orchestration of frontend, backend, and database services.
+
+Fullstack Delivery: Led the development of the Node.js REST API and React frontend, integrating real-time data flows for fleet management.
+
+Technical Ownership: Designed the database schemas and the simulation engine capable of handling 1000+ concurrent entities.
+
+Status: Core features completed and merged to main (2026).
+
+Tech Stack: Node.js, React, MongoDB, Docker, REST APIs.
+Explore Repository
 **Getting Started:**
 Visit the [repository](https://github.com/Haniawatah/vteam7-project) to explore the codebase, contribute, or learn more about the project structure.
 ---
